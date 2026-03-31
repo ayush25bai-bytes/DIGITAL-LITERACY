@@ -39,7 +39,7 @@ Established a professional presence across industry-standard platforms to showca
 
 ### Task 3 – Platforms  
 * **Technical :** Resolved algorithmic challenges on **HackerRank** to strengthen programming logic.
-* **Engagement :** Developed a [Digital Literacy Assessment Quiz](https://docs.google.com/forms/d/e/1FAIpQLSdpxMuWFjzpqwufwnhujHxWpAqh1r9Tr7nOsFwDye0Wc80jjQ/viewform?usp=publish-editor) to evaluate community awareness.
+* **Engagement :** Developed a [Digital Literacy Assessment Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfmK4VdOHLcRygTI0KH2--uX-d7Yyx2BGTle5Bvfv4sXTPt_A/viewform?usp=publish-editor) to evaluate community awareness.
 
 ### Task 4 – Email Etiquette  
 Drafted specialized professional correspondence templates and created a **Social Media Integrity Checklist** to ensure a positive and professional digital footprint.
